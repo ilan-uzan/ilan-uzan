@@ -143,12 +143,18 @@ ilan@dev ~ % ./spellcheck --strict
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilan-uzan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=8B949E&ring_color=00FF41" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilan-uzan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=8B949E" alt="top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilan-uzan&theme=github_dark" alt="profile details" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ilan-uzan&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
-<img src="https://streak-stats.demolab.com?user=ilan-uzan&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilan-uzan&theme=github_dark" alt="repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilan-uzan&theme=github_dark" alt="most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilan-uzan&theme=github_dark" alt="stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilan-uzan&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" alt="activity graph" />
+<img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilan-uzan&theme=github_dark&utcOffset=3" alt="productive time" />
+
+### `// contribution heatmap`
+
+<img width="90%" src="https://ghchart.rshah.org/00FF41/ilan-uzan" alt="contribution heatmap" />
 
 </div>
 
