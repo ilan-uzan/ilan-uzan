@@ -19,8 +19,5 @@
 
 <div align="center">
 
-### Open source
-
-**[claude-money-skills](https://github.com/ilan-uzan/claude-money-skills)**: 12 free Claude skills that help you make, keep and ask for more money. Install in Claude Code with `/plugin marketplace add ilan-uzan/claude-money-skills`
 
 </div>
